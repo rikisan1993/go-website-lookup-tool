@@ -1,4 +1,4 @@
-# go-website-lookup-tool
+# Website Lookup Tool (CLI)
 Simple website lookup tool, built with golang
 
 ## What can it do
